@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Uni Neue Book';
+  src: local('Uni Neue Book'), local('Uni Neue Book'), url('../fonts/UniNeue/UniNeueBook.woff'),
+    url(('../fonts/UniNeue/UniNeueBook.woff'));
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Uni Neue';
+  src: local('Uni Neue'), local('Uni Neue'), url('../fonts/UniNeue/UniNeueRegular.woff'),
+    url(('../fonts/UniNeue/UniNeueRegular.woff'));
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

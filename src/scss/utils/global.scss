@@ -1,0 +1,45 @@
+// =============================================
+// General styles
+// =============================================
+
+html,
+body {
+  min-width: 420px;
+  font-family: 'Uni Neue', sans-serif;
+  font-size: 1vw;
+  color: #282828;
+  overflow-x: hidden;
+  line-height: 1.2;
+  text-size-adjust: 100%;
+
+  @media (max-width: 992px) {
+    font-size: 14px;
+  }
+}
+
+// ============== slick arrows
+.slick-arrow {
+  top: 50%;
+  height: 1.5rem;
+  width: 1rem;
+  margin-top: -0.75rem;
+  position: absolute;
+  font-size: 0;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  background-image: url('../images/arrp.webp');
+  background-repeat: no-repeat;
+  background-size: 0.7rem;
+}
+
+.slick-prev {
+  left: 0;
+  transform: translateX(-2rem);
+  cursor: pointer;
+}
+.slick-next {
+  right: 0;
+  transform: translateX(2rem) rotate(180deg);
+  cursor: pointer;
+}
