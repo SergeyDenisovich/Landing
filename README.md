@@ -1,8 +1,8 @@
 # [Landing page](https://sergeydenisovich.github.io/test/)
 
 ### В проекте используются следующие технологии:
-- HTML
-- SCSS
+- html
+- scss
 - javascript
 - библиотека jquery
 - fancybox
