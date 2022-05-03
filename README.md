@@ -1,4 +1,12 @@
-### [Landing page](https://sergeydenisovich.github.io/test/)
+# [Landing page](https://sergeydenisovich.github.io/test/)
+
+### В проекте используются следующие технологии:
+- HTML
+- SCSS
+- javascript
+- библиотека jquery
+- fancybox
+- slick-slider
 
 Скачать репозиторий:
 
