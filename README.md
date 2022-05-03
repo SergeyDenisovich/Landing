@@ -1,4 +1,4 @@
-### [Тестовое задание - смотреть](https://sergeydenisovich.github.io/test/)
+### [Landing page](https://sergeydenisovich.github.io/test/)
 
 Скачать репозиторий:
 
